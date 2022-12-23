@@ -1,0 +1,37 @@
+<table cellspacing ="5">
+     <tr>
+       <td>
+        <table cellspacing ="2">
+            <tr>
+                <td>Coding Skills  </td><td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+                <td>Data Structure </td><td>⭐⭐⭐     </td>
+            </tr>
+            <tr>
+                <td>Web Technology </td><td>⭐⭐       </td>
+            </tr>
+        </table>
+       </td>
+    
+       <td>
+        <table cellspacing ="2">
+            <tr>
+              <tr>
+                  <td>Communication  </td><td>⭐⭐⭐⭐⭐</td>
+              </tr>
+              <tr>
+                  <td>Core subjects  </td><td>⭐⭐        </td> 
+              </tr> 
+              <tr>
+                <td>Confidence level </td><td>⭐⭐⭐⭐   </td>
+            </tr>
+           </table>
+       </td>
+    </tr>
+
+    <h3>Schooling -</h3>
+    <li>Dr.Hari Singh Gour University , Sagar</li>
+    <li>Career Convent School ,Badarwas</li>
+    <li>Bharat Mata School , Isagarh</li>
+    <li>Anand Primary School,Isagarh</li>
